@@ -2,7 +2,7 @@
 
 ### Investigation into possible integration between EOEPCA and openEO processing.
 
-For a full breakdown of the work carried out under this investigation please see the included pdf document [EOEPCA-TN-012_1.0 - Green Transition Information Factory use case V1.0.pdf](https://github.com/EOEPCA/oapip-openeo-integration/blob/EOEPCA-TN-012_1.0%20-%20Green%20Transition%20Information%20Factory%20use%20case%20V1.0.pdf).
+For a full breakdown of the work carried out under this investigation please see the included pdf document [EOEPCA-TN-012_1.0 - Green Transition Information Factory use case V1.0.pdf](https://github.com/EOEPCA/oapip-openeo-integration/blob/main/EOEPCA-TN-012_1.0%20-%20Green%20Transition%20Information%20Factory%20use%20case%20V1.0.pdf).
 
 The two major focuses of this investigation are:
 
